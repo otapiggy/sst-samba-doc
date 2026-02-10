@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This document describes how to set up a **Samba-based file sharing environment** for **SST localization workflows**, covering both **server-side** and **client-side** configurations.
+This document describes how to set up a **Samba-based file sharing environment** for **SST localization**, covering both **server-side** and **client-side** configurations.
 
 The objective of this setup is to provide a **simple, reliable, and cross-platform file sharing solution** that enables:
 
@@ -10,4 +10,6 @@ The objective of this setup is to provide a **simple, reliable, and cross-platfo
 - Windows and Linux clients to access shared SST localization data
 - Consistent and synchronized access to shared files across different operating systems
 
-This guide focuses on a **practical configuration suitable for development, testing, and lab environments**, prioritizing clarity, maintainability, and ease of deployment.
+### Architecture Overview
+
+![Samba architecture for SST localization](images/samba-architecture.png)
