@@ -1,1 +1,1 @@
-Open this folder in VS Code to review the Markdown file. Use export-to-word.ps1 to generate the Word document.
+Open this folder in VS Code. Use Pandoc to export setup-samba-sst-localization.md to Word.
