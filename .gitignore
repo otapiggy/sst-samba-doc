@@ -1,0 +1,17 @@
+@"
+# Pandoc / Word outputs
+*.docx
+*.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+"@ | Out-File .gitignore -Encoding utf8
